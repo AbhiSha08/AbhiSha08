@@ -1,7 +1,7 @@
 # Abhijeet Sharma 👋
 ### IT Operations Expert | Cyber Data Analyst | AI Integration
 
-Resourceful **IT professional with 6+ years of experience** in endpoint management and remote incident resolution. Currently bridging the gap between legacy IT infrastructure and modern **AI-driven Cybersecurity**. 
+**6+ Years IT Infrastructure | Cybersecurity Analyst | Architect of AURA (GenAI + MITRE ATT&CK). Bridging the gap between front-line operations and automated defense with a first-principles approach.**. 
 
 * 🎓 **B.Sc. Computer Science** (Mumbai University, 2026)
 * 🛡️ **Focus:** Threat Intelligence, Log Analysis, and MITRE ATT&CK Mapping.
