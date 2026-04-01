@@ -1,13 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Abhijeet%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cyber%20Data%20Analyst%20|%20AI%20Developer&descAlignY=62&descSize=20" />
-</p>
+# Abhijeet Sharma 👋
+### IT Operations Expert | Cyber Data Analyst | AI Integration
 
-### 👋 About Me
 Resourceful **IT professional with 6+ years of experience** in endpoint management and remote incident resolution. Currently bridging the gap between legacy IT infrastructure and modern **AI-driven Cybersecurity**. 
 
 * 🎓 **B.Sc. Computer Science** (Mumbai University, 2026)
 * 🛡️ **Focus:** Threat Intelligence, Log Analysis, and MITRE ATT&CK Mapping.
-* 🤖 **Expertise:** Building security tools powered by **Gemini 3.1 Flash-Lite**.
+* 🤖 **Expertise:** Building security-focused tools integrated with **Generative AI** for automated analysis and education.
 
 ---
 
@@ -15,7 +13,7 @@ Resourceful **IT professional with 6+ years of experience** in endpoint manageme
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Gemini%203.1-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Integration-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -30,14 +28,15 @@ Resourceful **IT professional with 6+ years of experience** in endpoint manageme
 
 #### 🛰️ [AURA: Event Log to MITRE ATT&CK Mapper](https://aura-eventmapper.streamlit.app/)
 > **AI-Powered Threat Intelligence**
-> * Parses Windows Event Logs and uses **Gemini 3.1 Flash-Lite** to automate MITRE ATT&CK mapping.
-> * Implements secure **Secrets Management** for API protection.
+> * Parses Windows Event Logs and leverages **Generative AI** to automate mapping to the MITRE ATT&CK framework.
+> * Designed to streamline threat hunting by normalizing complex log data into actionable reports.
 > * [View Repository](https://github.com/AbhiSha08/AURA)
 
-#### 🛡️ [CyberSafe Nexus: Unified Intelligence Hub](https://cybersafe-nexus.vercel.app/)
-> **Full-Stack SOC Simulation**
-> * Containerized platform for vulnerability research (Phishing, SQLi, Brute-force).
-> * Real-time SIEM-style logging with PII redaction.
+#### 🛡️ [CyberSafe Nexus: Academic Learning Platform](https://cybersafe-nexus.vercel.app/)
+> **Cybersecurity Awareness & Training Web-App**
+> * A beginner-friendly educational hub featuring integrated security tools for hands-on learning.
+> * Designed to help newcomers understand vulnerability research (Phishing, SQLi, Brute-force) in a controlled environment.
+> * Features SIEM-style event logging and **AI-integrated intelligence** to guide users through security concepts.
 > * [View Repository](https://github.com/AbhiSha08/CyberSafe-Nexus)
 
 ---
