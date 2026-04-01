@@ -1,37 +1,68 @@
-# Hi, I'm Abhijeet Sharma 👋
-### IT Operations Expert turned Cyber Data Analyst | B.Sc. Computer Science
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Abhijeet%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cyber%20Data%20Analyst%20|%20AI%20Developer&descAlignY=62&descSize=20" />
+</p>
 
-I bridge the gap between **hands-on IT infrastructure** and **modern AI-driven security**. With 6+ years of experience managing high-stakes systems for government and financial sectors, I now build tools that automate threat intelligence using the latest LLMs.
+### 👋 About Me
+Resourceful **IT professional with 6+ years of experience** in endpoint management and remote incident resolution. Currently bridging the gap between legacy IT infrastructure and modern **AI-driven Cybersecurity**. 
 
----
-
-### 🛡️ Featured Projects
-
-#### [AURA: Event Log to MITRE ATT&CK Mapper](https://aura-eventmapper.streamlit.app/)
-* **The Tech:** Python, Gemini 3.1 Flash-Lite, Streamlit.
-* **The Problem:** Raw Windows logs are hard to read and slow to map manually.
-* **The Solution:** AURA parses logs and uses Generative AI to instantly categorize process executions into MITRE techniques.
-
-#### [CyberSafe Nexus: Unified Intelligence Hub](https://cybersafe-nexus.vercel.app/)
-* **The Tech:** FastAPI, React, MongoDB, Docker.
-* **The Mission:** A full-stack SOC simulation platform for vulnerability research and security awareness.
+* 🎓 **B.Sc. Computer Science** (Mumbai University, 2026)
+* 🛡️ **Focus:** Threat Intelligence, Log Analysis, and MITRE ATT&CK Mapping.
+* 🤖 **Expertise:** Building security tools powered by **Gemini 3.1 Flash-Lite**.
 
 ---
 
 ### 🛠️ Technical Stack
-* **Security:** MITRE ATT&CK, Log Analysis, Threat Intelligence, SIEM Simulation.
-* **AI/ML:** Gemini API Integration, Prompt Engineering, Data Normalization.
-* **Development:** Python, SQL, FastAPI, React, Docker.
-* **Deployment:** Streamlit Cloud, Vercel, Render, Secrets Management.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Gemini%203.1-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
-### 📊 Professional Stats
-* **Experience:** 6+ Years in IT Support & Endpoint Management.
-* **Scale:** Overseen 35+ concurrent systems with 90%+ resolution accuracy.
-* **Education:** B.Sc. Computer Science (Mumbai University, 2026).
+### 🚀 Featured Projects
+
+#### 🛰️ [AURA: Event Log to MITRE ATT&CK Mapper](https://aura-eventmapper.streamlit.app/)
+> **AI-Powered Threat Intelligence**
+> * Parses Windows Event Logs and uses **Gemini 3.1 Flash-Lite** to automate MITRE ATT&CK mapping.
+> * Implements secure **Secrets Management** for API protection.
+> * [View Repository](https://github.com/AbhiSha08/AURA)
+
+#### 🛡️ [CyberSafe Nexus: Unified Intelligence Hub](https://cybersafe-nexus.vercel.app/)
+> **Full-Stack SOC Simulation**
+> * Containerized platform for vulnerability research (Phishing, SQLi, Brute-force).
+> * Real-time SIEM-style logging with PII redaction.
+> * [View Repository](https://github.com/AbhiSha08/CyberSafe-Nexus)
 
 ---
 
-### 📫 Let's Connect
-* **LinkedIn:** [(http://www.linkedin.com/in/abhijeet-sharma-abhisha08)]
+### 📊 Performance Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiSha08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhijeet's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSha08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📂 Professional Evolution
+<details>
+<summary><b>Click to view my 6-Year IT Support Background 🚀</b></summary>
+
+* **Data & IT Support Associate:** Managed 35+ concurrent systems with 90%+ resolution accuracy.
+* **IT Operations (Freelance):** Diagnosed and repaired critical hardware for banks and civil courts.
+* **Security Infrastructure:** Designed and installed IP-based CCTV networks with remote access.
+</details>
+
+---
+
+### 📫 Connect with Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhijeet-sharma-abhisha08)
+[<img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AbhiSha08)
+[<img src="https://img.shields.io/badge/Portfolio_Assets-FF8C00?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AbhiSha08/Portfolio-Assets)
