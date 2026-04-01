@@ -34,5 +34,4 @@ I bridge the gap between **hands-on IT infrastructure** and **modern AI-driven s
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Your Profile Link]
-* **Portfolio Assets:** [Link to your Portfolio-Assets Repo]
+* **LinkedIn:** [(http://www.linkedin.com/in/abhijeet-sharma-abhisha08)]
