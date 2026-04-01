@@ -42,12 +42,14 @@ Resourceful **IT professional with 6+ years of experience** in endpoint manageme
 
 ---
 
-### 📊 Performance Metrics & Activity
+### 📊 Professional Performance & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiSha08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhijeet's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSha08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+| Category | Details |
+| :--- | :--- |
+| **System Oversight** | 35+ Concurrent Systems Managed |
+| **Resolution Accuracy** | 90%+ Incident Resolution Rate |
+| **Field Experience** | 6+ Years (IT Operations & Remote Support) |
+| **Key Credentials** | upGrad GenAI, Deloitte Cyber Simulation |
 
 ---
 
@@ -63,6 +65,7 @@ Resourceful **IT professional with 6+ years of experience** in endpoint manageme
 ---
 
 ### 📫 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhijeet-sharma-abhisha08)
-[<img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AbhiSha08)
-[<img src="https://img.shields.io/badge/Portfolio_Assets-FF8C00?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AbhiSha08/Portfolio-Assets)
+<p align="left">
+<a href="https://www.linkedin.com/in/abhijeet-sharma-abhisha08"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AbhiSha08/Portfolio-Assets"><img src="https://img.shields.io/badge/Portfolio_Assets-FF8C00?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
