@@ -25,11 +25,11 @@ IT Operations professional with over 4 years of hands-on experience managing mul
 
 ### 🚀 Featured Technical Projects
 
-#### 🛰️ [AURA: Windows Event Log to MITRE ATT&CK Mapper](https://aura-eventmapper.streamlit.app/)
-> **Security Parsing & Automation Engine**
-> * Developed an automation script using Python regular expressions (Regex) to extract critical security indicators from raw Windows Event Logs (JSON/CSV formats), targeting Event ID 4688 and 4624.
-> * Integrated an API pipeline to match parsed system event chains to corresponding MITRE ATT&CK techniques, outputting structured reports ready for tier-1 analyst review.
-> * Deployed on Streamlit Cloud with robust environment secrets management to ensure strict API credential isolation.
+#### 🛰️ [AURA: Deterministic Event Log to MITRE ATT&CK Mapper](https://aura-eventmapper.streamlit.app/)
+> **High-Speed Security Parsing & Threat Intelligence Engine**
+> * Engineered a lightning-fast, deterministic rule engine using Python regular expressions to map raw Windows Event Logs to the MITRE ATT&CK framework, successfully parsing and classifying 10,000+ logs in under one second.
+> * Architected a dynamic STIX 2.1 ingestion pipeline that pulls and caches the official MITRE enterprise dataset in RAM, eliminating reliance on latency-heavy APIs.
+> * Fully containerized the application architecture using Docker to ensure secure, OS-agnostic deployment and immutable environment configurations.
 > * [View Repository](https://github.com/AbhiSha08/AURA)
 
 #### 🛡️ [CyberSafe Nexus: Security Workflow & Monitoring Platform](https://cybersafe-nexus.vercel.app/)
