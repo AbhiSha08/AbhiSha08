@@ -1,7 +1,7 @@
 # Abhijeet Sharma 👋
 ### IT Operations Specialist | Security Operations & Automation
 
-IT Operations professional with over 4 years of hands-on experience managing multi-tenant infrastructure, endpoint networks, and incident triage workflows. Certified in Cybersecurity (ISC2 CC) with practical expertise developing functional Python log parsers, managing centralized environments, and automating defensive workflow mappings to accelerate security triage.
+IT Operations professional with 5+ years of hands-on experience managing multi-tenant infrastructure, endpoint networks, and incident triage workflows. Certified in Cybersecurity (ISC2 CC) with practical expertise developing high-performance Python log parsers, managing centralized environments, and building deterministic MITRE ATT&CK mapping engines (STIX 2.1) to accelerate SOC triage.
 
 * 🎓 **B.Sc. Computer Science** — Mumbai University (Graduation 2026)
 * 🛡️ **Focus:** Security Operations, Windows Event Log Triage, and Baseline Configuration Audits
