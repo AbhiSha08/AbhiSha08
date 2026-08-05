@@ -1,11 +1,11 @@
 # Abhijeet Sharma 👋
-### Information Security & IT Operations Associate | Blue Team Automation
+### Information Security & IT Infrastructure Associate | Security Automation
 
-Information Security professional with 4+ years of hands-on experience managing multi-tenant infrastructure, endpoint networks, and operational compliance. Certified in Cybersecurity (ISC2 CC) with practical expertise developing high-performance Python log parsers, managing centralized environments, and building deterministic MITRE ATT&CK mapping engines (STIX 2.1) to accelerate SOC triage.
+Information Security professional with 4+ years of hands-on experience managing network infrastructure, perimeter security gateways, and regulatory compliance. Certified in Cybersecurity (ISC2 CC) with practical expertise in Layer 3 subnetting, developing high-performance Python log parsers, and building deterministic MITRE ATT&CK mapping engines (STIX 2.1) to accelerate threat triage.
 
-* 🎓 **B.Sc. Computer Science** — Mumbai University (Graduation 2026)
-* 🛡️ **Focus:** Security Operations, GRC (Feasibility/Audit Documentation), and Incident Triage
-* 🐍 **Automation Logic:** Building Python utilities to normalize log data, parse event chains, and automate defensive workflows
+* 🎓 **B.Sc. Computer Science** — Mumbai University (2026)
+* 🛡️ **Focus:** Network Security, IT Infrastructure Hardening, GRC (Banking/Regulatory Audits), and Defensive Automation
+* 🐍 **Automation Logic:** Building Python utilities to normalize log data, parse event chains, and automate security workflows
 
 ---
 
@@ -27,7 +27,7 @@ Information Security professional with 4+ years of hands-on experience managing 
 
 #### 🛰️ [AURA: Deterministic Event Log to MITRE ATT&CK Mapper](https://aura-eventmapper.streamlit.app/)
 > **High-Performance SIEM Log Analysis Engine**
-> * Engineered a lightning-fast, deterministic rule engine using Python regular expressions to map raw Windows Event Logs to the MITRE ATT&CK framework, successfully parsing and classifying 10,000+ logs in under one second.
+> * Engineered a lightning-fast, deterministic rule engine using Python regular expressions to map raw Windows Event Logs to the MITRE ATT&CK framework, parsing and classifying 10,000+ logs in under one second.
 > * Architected a dynamic STIX 2.1 ingestion pipeline that pulls and caches the official MITRE enterprise dataset in RAM, eliminating reliance on latency-heavy APIs.
 > * Fully containerized the application architecture using Docker to ensure secure, OS-agnostic deployment and immutable environment configurations.
 > * [View Repository](https://github.com/AbhiSha08/AURA)
@@ -47,17 +47,18 @@ Information Security professional with 4+ years of hands-on experience managing 
 | :--- | :--- |
 | **System Oversight** | 35+ Distributed Enterprise Endpoints Managed |
 | **Resolution Accuracy** | 95%+ System Uptime SLA via Documented Workflows |
-| **Professional Tenure** | 4+ Years Information Security & IT Operations |
+| **Professional Tenure** | 4+ Years Information Security & IT Infrastructure |
 | **Core Certifications** | ISC2 Certified in Cybersecurity (CC) |
 
 ---
 
 ### 📂 Professional Background
 <details>
-<summary><b>Click to expand operational IT footprint 📋</b></summary>
+<summary><b>Click to expand operational IT & infrastructure footprint 📋</b></summary>
 
-* **Network Engineering:** Designed and deployed a 25-node Thin Client network architecture, managing physical cabling, static IP mapping, and central host DHCP scopes.
-* **Risk & Compliance (GRC):** Authored comprehensive project work orders and business feasibility reports that successfully cleared government audits to secure a ₹10 Lakh PMEGP capital loan.
+* **Network Infrastructure & Gateway Engineering:** Designed and deployed a 25-node Thin Client network architecture, configuring static IP mapping, Layer 3 subnetting boundaries, and central host DHCP scopes.
+* **Perimeter Security & Remote Gateways:** Deployed end-to-end IP-CCTV surveillance networks; configured secure port-forwarding gateways, network isolation, and encrypted remote viewing access.
+* **GRC & Audit Compliance:** Authored comprehensive technical feasibility reports and asset profiles aligned with banking regulatory standards, successfully clearing audits to secure a ₹10 Lakh PMEGP capital loan.
 * **Endpoint Management:** Maintained strict SLAs across distributed client endpoints; provisioned bare-metal Windows OS formatting, driver stacks, and executed rapid remote troubleshooting.
 </details>
 
